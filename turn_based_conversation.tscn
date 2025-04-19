@@ -1,0 +1,25 @@
+[gd_scene load_steps=5 format=3 uid="uid://dwt2x3djn2frs"]
+
+[ext_resource type="Texture2D" uid="uid://bkpuxu2jsijt2" path="res://icon.svg" id="1_adiye"]
+[ext_resource type="Script" uid="uid://byjmdxge8ucxt" path="res://button1.gd" id="2_r20c8"]
+[ext_resource type="Script" uid="uid://dcxlbdadm3b2l" path="res://button2.gd" id="3_6yvxq"]
+[ext_resource type="Script" uid="uid://8qncuvn01c0j" path="res://button3.gd" id="4_kjx27"]
+
+[node name="turn_based_conversation" type="Node2D"]
+position = Vector2(421, 273)
+
+[node name="Button" type="Button" parent="."]
+offset_right = 88.0
+offset_bottom = 71.0
+icon = ExtResource("1_adiye")
+script = ExtResource("2_r20c8")
+
+[node name="Button2" type="Button" parent="."]
+offset_right = 8.0
+offset_bottom = 8.0
+script = ExtResource("3_6yvxq")
+
+[node name="Button3" type="Button" parent="."]
+offset_right = 8.0
+offset_bottom = 8.0
+script = ExtResource("4_kjx27")
