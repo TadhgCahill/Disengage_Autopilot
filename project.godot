@@ -11,8 +11,8 @@ config_version=5
 [application]
 
 config/name="disengage_Autopilot"
-run/main_scene="uid://lkr2y4a8x0qh"
-config/features=PackedStringArray("4.4", "Forward Plus")
+run/main_scene="res://node_2d.tscn"
+config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://icon.svg"
 
 [display]
