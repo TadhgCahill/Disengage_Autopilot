@@ -1,0 +1,27 @@
+[gd_resource type="TileSet" load_steps=3 format=3 uid="uid://bfyns7ahskk23"]
+
+[ext_resource type="Texture2D" uid="uid://jwfiul5vcxpt" path="res://Disengage Autopilot Sprite Fixes Upscaled.png" id="1_6x8cd"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_xuc5i"]
+texture = ExtResource("1_6x8cd")
+texture_region_size = Vector2i(160, 160)
+0:0/0 = 0
+0:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-80, -56.5128, -2.43588, -57.4872, 0.487183, 80, -80, 80)
+1:0/0 = 0
+0:1/0 = 0
+0:1/0/physics_layer_0/polygon_0/points = PackedVector2Array(-80, -42.8718, -4.38461, -40.9231, -1.46155, -80, -80, -80)
+1:1/0 = 0
+1:1/0/physics_layer_0/polygon_0/points = PackedVector2Array(-80, -80, -45.3077, -80, -20.9487, -35.0769, 19, 1.94873, 23.8718, 80, -80, 80)
+0:2/0 = 0
+0:2/0/physics_layer_0/polygon_0/points = PackedVector2Array(-80, 28.2564, 80, 26.3077, 80, 80, -80, 80)
+1:2/0 = 0
+1:2/0/z_index = 2
+0:3/0 = 0
+0:3/0/physics_layer_0/polygon_0/points = PackedVector2Array(-80, -42.8718, 80, -43.8461, 80, -80, -80, -80)
+1:3/0 = 0
+1:3/0/physics_layer_0/polygon_0/points = PackedVector2Array(0.487183, -80, 80, -80, 80, 0, 0.487183, 0)
+
+[resource]
+tile_size = Vector2i(160, 160)
+physics_layer_0/collision_layer = 1
+sources/0 = SubResource("TileSetAtlasSource_xuc5i")

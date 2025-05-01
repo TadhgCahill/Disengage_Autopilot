@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://de3wvu77bnf20"
-path="res://.godot/imported/Disengage_Autopilot_Tileset_Annimated_Props-Sheet.png-d46c44563bc8a43275fab75982e0182b.ctex"
+uid="uid://ob3t2g24n43k"
+path="res://.godot/imported/Disengage Autopilot Tileset Upscaled.png-f5e7a16042b0c73642be395c41ec18ed.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Disengage_Autopilot_Tileset_Annimated_Props-Sheet.png"
-dest_files=["res://.godot/imported/Disengage_Autopilot_Tileset_Annimated_Props-Sheet.png-d46c44563bc8a43275fab75982e0182b.ctex"]
+source_file="res://Disengage Autopilot Tileset Upscaled.png"
+dest_files=["res://.godot/imported/Disengage Autopilot Tileset Upscaled.png-f5e7a16042b0c73642be395c41ec18ed.ctex"]
 
 [params]
 

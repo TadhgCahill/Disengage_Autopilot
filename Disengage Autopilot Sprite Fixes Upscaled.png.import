@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://drfj3uahrpdq2"
-path="res://.godot/imported/Disengage_Autopilot_Door_Opening-Sheet.png-65fba13f66b4c2d4269af7bbea398eb6.ctex"
+uid="uid://jwfiul5vcxpt"
+path="res://.godot/imported/Disengage Autopilot Sprite Fixes Upscaled.png-a31cf9de88d236df63b9b77b4fa2336c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Disengage_Autopilot_Door_Opening-Sheet.png"
-dest_files=["res://.godot/imported/Disengage_Autopilot_Door_Opening-Sheet.png-65fba13f66b4c2d4269af7bbea398eb6.ctex"]
+source_file="res://Disengage Autopilot Sprite Fixes Upscaled.png"
+dest_files=["res://.godot/imported/Disengage Autopilot Sprite Fixes Upscaled.png-a31cf9de88d236df63b9b77b4fa2336c.ctex"]
 
 [params]
 
